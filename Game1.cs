@@ -116,7 +116,7 @@ namespace Monogame_3___Loops__Lists__Input
                 mowerSoundInstance.Play();
             }
 
-            if (grassTiles.Count == 0) // Doesn't work?
+            if (grassTiles.Count == 0)
             {
                 Exit();
             }
